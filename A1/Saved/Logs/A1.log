@@ -9312,3 +9312,732 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.17-05.53.29:542][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=2
 [2025.12.17-05.53.29:552][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
 [2025.12.17-05.53.29:624][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2025.12.17-05.54.29:602][523]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/A1/BP_GameInstance.BP_GameInstance
+[2025.12.17-05.54.29:603][523]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_117
+[2025.12.17-05.54.42:623][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.17-05.54.45:499][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-05.54.45:601][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BP_GameInstance] ([2] browsable assets)...
+[2025.12.17-05.54.45:601][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BP_GameInstance]
+[2025.12.17-05.54.45:615][420]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BP_GameInstance
+[2025.12.17-05.54.45:618][420]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameInstanceDFD930AD43952CB4ABD5699B28A6E21D.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BP_GameInstance.uasset'
+[2025.12.17-05.54.45:655][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.470 ms (total: 11.8 sec)
+[2025.12.17-05.54.45:788][420]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-05.54.45:789][420]LogContentValidation: Enabled validators:
+[2025.12.17-05.54.45:789][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-05.54.45:789][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-05.54.45:789][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-05.54.45:789][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-05.54.45:789][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-05.54.45:789][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-05.54.45:789][420]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameInstance Validating asset
+[2025.12.17-05.55.21:720][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.12.17-05.55.22:121][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-05.55.22:217][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BP_GameManager] ([2] browsable assets)...
+[2025.12.17-05.55.22:217][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BP_GameManager]
+[2025.12.17-05.55.22:271][362]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BP_GameManager
+[2025.12.17-05.55.22:272][362]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameManagerE039ADB24188BC9B6C71E2BB81B97EDC.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BP_GameManager.uasset'
+[2025.12.17-05.55.22:304][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.401 ms (total: 12.0 sec)
+[2025.12.17-05.55.22:433][362]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-05.55.22:433][362]LogContentValidation: Enabled validators:
+[2025.12.17-05.55.22:433][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-05.55.22:433][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-05.55.22:433][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-05.55.22:433][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-05.55.22:433][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-05.55.22:433][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-05.55.22:433][362]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameManager Validating asset
+[2025.12.17-05.56.24:221][386]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.12.17-05.56.29:998][669]LogEditorTransaction: Undo Move Nodes
+[2025.12.17-05.57.13:539][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.17-05.57.14:784][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-05.57.14:882][989]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BP_GameManager] ([2] browsable assets)...
+[2025.12.17-05.57.14:882][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BP_GameManager]
+[2025.12.17-05.57.14:935][989]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BP_GameManager
+[2025.12.17-05.57.14:936][989]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameManager547A22EF42938C392479A98D20FF1648.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BP_GameManager.uasset'
+[2025.12.17-05.57.14:969][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.893 ms (total: 12.2 sec)
+[2025.12.17-05.57.15:099][989]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-05.57.15:099][989]LogContentValidation: Enabled validators:
+[2025.12.17-05.57.15:099][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-05.57.15:099][989]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-05.57.15:099][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-05.57.15:099][989]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-05.57.15:099][989]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-05.57.15:099][989]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-05.57.15:100][989]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameManager Validating asset
+[2025.12.17-05.57.33:960][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-05.57.34:068][991]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu] ([2] browsable assets)...
+[2025.12.17-05.57.34:075][991]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu.WBP_PauseMenu]
+[2025.12.17-05.57.34:075][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu]
+[2025.12.17-05.57.34:107][991]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu
+[2025.12.17-05.57.34:109][991]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_PauseMenu138BCA85437A992D5FAA4680B6B31269.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu.uasset'
+[2025.12.17-05.57.34:146][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.547 ms (total: 12.4 sec)
+[2025.12.17-05.57.34:239][991]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-05.57.34:239][991]LogContentValidation: Enabled validators:
+[2025.12.17-05.57.34:239][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-05.57.34:239][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-05.57.34:239][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-05.57.34:239][991]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-05.57.34:239][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-05.57.34:239][991]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-05.57.34:242][991]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu Validating asset
+[2025.12.17-05.57.41:589][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.12.17-05.57.42:207][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-05.57.42:284][375]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu] ([2] browsable assets)...
+[2025.12.17-05.57.42:292][375]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu.WBP_PauseMenu]
+[2025.12.17-05.57.42:292][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu]
+[2025.12.17-05.57.42:322][375]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu
+[2025.12.17-05.57.42:323][375]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_PauseMenuC9CB351746CEBB03D4FD0E9A93A438E6.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu.uasset'
+[2025.12.17-05.57.42:352][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.203 ms (total: 12.5 sec)
+[2025.12.17-05.57.42:464][375]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-05.57.42:465][375]LogContentValidation: Enabled validators:
+[2025.12.17-05.57.42:465][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-05.57.42:465][375]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-05.57.42:465][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-05.57.42:465][375]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-05.57.42:465][375]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-05.57.42:465][375]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-05.57.42:468][375]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu Validating asset
+[2025.12.17-05.57.54:573][935]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD.WBP_HUD
+[2025.12.17-05.57.54:574][935]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_121
+[2025.12.17-05.57.54:593][935]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_122
+[2025.12.17-05.58.13:838][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.12.17-05.58.17:106][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-05.58.17:200][197]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD] ([2] browsable assets)...
+[2025.12.17-05.58.17:207][197]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD.WBP_HUD]
+[2025.12.17-05.58.17:207][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD]
+[2025.12.17-05.58.17:224][197]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD
+[2025.12.17-05.58.17:227][197]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_HUDEE6EAC2B4C7ABEAB51495283F056A645.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_HUD.uasset'
+[2025.12.17-05.58.17:263][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.242 ms (total: 12.7 sec)
+[2025.12.17-05.58.17:385][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-05.58.17:387][197]LogContentValidation: Enabled validators:
+[2025.12.17-05.58.17:387][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-05.58.17:387][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-05.58.17:387][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-05.58.17:387][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-05.58.17:387][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-05.58.17:387][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-05.58.17:388][197]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD Validating asset
+[2025.12.17-05.58.19:208][274]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_LoseScreen.WBP_LoseScreen
+[2025.12.17-05.58.19:208][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_125
+[2025.12.17-05.58.19:225][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_126
+[2025.12.17-05.58.26:242][591]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu.WBP_MainMenu
+[2025.12.17-05.58.26:242][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_127
+[2025.12.17-05.58.26:259][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_128
+[2025.12.17-05.59.02:864][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18857.658203
+[2025.12.17-05.59.03:014][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-05.59.03:014][180]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18857.781250, Update Interval: 307.187103
+[2025.12.17-05.59.27:485][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.12.17-05.59.29:682][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-05.59.29:788][381]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu] ([2] browsable assets)...
+[2025.12.17-05.59.29:796][381]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu.WBP_MainMenu]
+[2025.12.17-05.59.29:796][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu]
+[2025.12.17-05.59.29:826][381]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu
+[2025.12.17-05.59.29:828][381]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_MainMenu909181A349F3460E71ECF98F234FD9F3.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu.uasset'
+[2025.12.17-05.59.29:864][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.960 ms (total: 12.8 sec)
+[2025.12.17-05.59.29:990][381]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-05.59.29:990][381]LogContentValidation: Enabled validators:
+[2025.12.17-05.59.29:990][381]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-05.59.29:990][381]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-05.59.29:990][381]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-05.59.29:990][381]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-05.59.29:991][381]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-05.59.29:991][381]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-05.59.29:992][381]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu Validating asset
+[2025.12.17-05.59.31:555][445]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu.WBP_OptionsMenu
+[2025.12.17-05.59.31:557][445]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_131
+[2025.12.17-05.59.31:579][445]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_132
+[2025.12.17-06.00.28:573][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.12.17-06.00.28:891][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-06.00.28:978][997]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu] ([2] browsable assets)...
+[2025.12.17-06.00.28:985][997]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu.WBP_OptionsMenu]
+[2025.12.17-06.00.28:985][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu]
+[2025.12.17-06.00.29:013][997]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu
+[2025.12.17-06.00.29:015][997]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_OptionsMenuC5037A934EBFFF07EE600F923DB3BF39.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu.uasset'
+[2025.12.17-06.00.29:050][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.941 ms (total: 13.0 sec)
+[2025.12.17-06.00.29:168][997]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-06.00.29:168][997]LogContentValidation: Enabled validators:
+[2025.12.17-06.00.29:168][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-06.00.29:168][997]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-06.00.29:169][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-06.00.29:169][997]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-06.00.29:169][997]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-06.00.29:169][997]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-06.00.29:170][997]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu Validating asset
+[2025.12.17-06.00.31:260][ 76]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.31:260][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.31:462][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.12.17-06.00.32:308][107]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.32:308][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.32:320][107]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.32:320][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.32:424][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.17-06.00.33:552][157]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.17-06.00.33:552][157]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.33:552][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.33:690][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.17-06.00.34:454][185]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu.WBP_PauseMenu
+[2025.12.17-06.00.34:454][185]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_135
+[2025.12.17-06.00.34:472][185]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_136
+[2025.12.17-06.00.38:992][330]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_WinScreen.WBP_WinScreen
+[2025.12.17-06.00.38:992][330]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_137
+[2025.12.17-06.00.39:010][330]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_138
+[2025.12.17-06.00.48:243][756]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.48:243][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.48:450][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.12.17-06.00.49:139][792]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.49:139][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.49:165][792]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.49:165][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.49:266][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.12.17-06.00.49:799][818]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.49:799][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.49:828][818]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.49:829][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.49:930][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.17-06.00.50:396][847]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.50:396][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.50:407][847]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.50:407][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.50:498][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.12.17-06.00.50:949][870]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.50:949][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.50:977][870]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.50:977][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.51:098][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.17-06.00.51:503][897]LogWorld: UWorld::CleanupWorld for World_136, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.51:503][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.51:515][897]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.51:515][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.51:616][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.12.17-06.00.52:059][925]LogWorld: UWorld::CleanupWorld for World_138, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.52:059][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.52:087][925]LogWorld: UWorld::CleanupWorld for World_137, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.00.52:087][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.00.52:191][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.17-06.00.53:500][  1]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/LVL_MainMenu.LVL_MainMenu:PersistentLevel.LVL_MainMenu
+[2025.12.17-06.00.53:501][  1]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_139
+[2025.12.17-06.01.13:121][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.17-06.01.13:764][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-06.01.13:994][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.17-06.01.14:016][226]LogSavePackage: Moving output files for package: /Game/FirstPerson/LVL_MainMenu
+[2025.12.17-06.01.14:017][226]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/LVL_MainMenuD17DEA184EEB96B7F5CCF18370930049.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/LVL_MainMenu.umap'
+[2025.12.17-06.01.14:032][226]LogFileHelpers: Saving map 'LVL_MainMenu' took 0.166
+[2025.12.17-06.01.14:049][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 286.045 ms (total: 13.3 sec)
+[2025.12.17-06.01.14:141][226]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-06.01.14:141][226]LogContentValidation: Enabled validators:
+[2025.12.17-06.01.14:141][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-06.01.14:141][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-06.01.14:141][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-06.01.14:141][226]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-06.01.14:141][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-06.01.14:141][226]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-06.01.14:141][226]AssetCheck: /Game/FirstPerson/LVL_MainMenu Validating asset
+[2025.12.17-06.02.23:241][765]LogContentBrowser: Attempting asset rename: A1 -> A2
+[2025.12.17-06.02.27:252][765]LogSlate: Window 'Message' being destroyed
+[2025.12.17-06.02.27:264][765]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_GameInstance
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.12.17-06.02.27:638][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-06.02.27:639][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.17-06.02.27:818][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.17-06.02.27:819][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.17-06.02.27:875][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.17-06.02.27:876][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_FirstPersonCharacter4F6529814ED5F3AB0A08889C9BBDE6FF.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.17-06.02.27:878][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/BPI_Interactable] ([2] browsable assets)...
+[2025.12.17-06.02.27:878][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/BPI_Interactable]
+[2025.12.17-06.02.27:881][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/BPI_Interactable
+[2025.12.17-06.02.27:881][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BPI_InteractableD4AD987D4E3C4A425F2F828768C1237E.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/BPI_Interactable.uasset'
+[2025.12.17-06.02.27:890][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/A2/BP_Pickup] ([2] browsable assets)...
+[2025.12.17-06.02.27:890][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/BP_Pickup]
+[2025.12.17-06.02.27:895][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/BP_Pickup
+[2025.12.17-06.02.27:895][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_PickupC1A5CC6A47A73A3522A2D0A50AF7FB5A.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/BP_Pickup.uasset'
+[2025.12.17-06.02.27:915][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BP_Pickup] ([5] browsable assets)...
+[2025.12.17-06.02.27:915][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BP_Pickup]
+[2025.12.17-06.02.27:919][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BP_Pickup
+[2025.12.17-06.02.27:921][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_Pickup2BA6F0E14F65A08BDF8D73910A497F43.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BP_Pickup.uasset'
+[2025.12.17-06.02.27:925][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/BP_GameManager] ([2] browsable assets)...
+[2025.12.17-06.02.27:925][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/BP_GameManager]
+[2025.12.17-06.02.27:951][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/BP_GameManager
+[2025.12.17-06.02.27:951][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameManager37B68BCC463EC1CD607EC7B1727CA032.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/BP_GameManager.uasset'
+[2025.12.17-06.02.27:961][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BP_GameManager] ([5] browsable assets)...
+[2025.12.17-06.02.27:961][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BP_GameManager]
+[2025.12.17-06.02.27:962][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BP_GameManager
+[2025.12.17-06.02.27:963][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameManager0C0C9DE84D273AE0009F40AB2274C60B.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BP_GameManager.uasset'
+[2025.12.17-06.02.27:967][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/BP_GameInstance] ([2] browsable assets)...
+[2025.12.17-06.02.27:967][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/BP_GameInstance]
+[2025.12.17-06.02.27:971][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/BP_GameInstance
+[2025.12.17-06.02.27:972][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameInstance1936B1534BBEACC5904B3E9AB24BE7FB.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/BP_GameInstance.uasset'
+[2025.12.17-06.02.27:983][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BP_GameInstance] ([5] browsable assets)...
+[2025.12.17-06.02.27:983][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BP_GameInstance]
+[2025.12.17-06.02.27:985][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BP_GameInstance
+[2025.12.17-06.02.27:985][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameInstance77FEDA134CA46522D7933C808C02FC31.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BP_GameInstance.uasset'
+[2025.12.17-06.02.27:993][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_HUD] ([2] browsable assets)...
+[2025.12.17-06.02.27:993][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_HUD]
+[2025.12.17-06.02.27:998][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_HUD
+[2025.12.17-06.02.27:998][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_HUD9324E76D4332698C65D63BB6B76ECF2C.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Widgets/WBP_HUD.uasset'
+[2025.12.17-06.02.28:005][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/WBP_MainMenu_C] ([1] browsable assets)...
+[2025.12.17-06.02.28:006][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/WBP_MainMenu_C]
+[2025.12.17-06.02.28:007][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/WBP_MainMenu_C
+[2025.12.17-06.02.28:007][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_MainMenu_CB9D855104DB90BF939E473B153B73737.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/WBP_MainMenu_C.uasset'
+[2025.12.17-06.02.28:009][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Sounds/SC_BGM] ([1] browsable assets)...
+[2025.12.17-06.02.28:009][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Sounds/SC_BGM]
+[2025.12.17-06.02.28:010][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Sounds/SC_BGM
+[2025.12.17-06.02.28:011][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/SC_BGM4290A3CC4CA51598113ED9B99CCEC249.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Sounds/SC_BGM.uasset'
+[2025.12.17-06.02.28:012][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Sounds/SM_Main] ([1] browsable assets)...
+[2025.12.17-06.02.28:012][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Sounds/SM_Main]
+[2025.12.17-06.02.28:013][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Sounds/SM_Main
+[2025.12.17-06.02.28:013][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/SM_MainEA5AB26B476212D8A20ECE8C008E50A9.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Sounds/SM_Main.uasset'
+[2025.12.17-06.02.28:016][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_LoseScreen] ([2] browsable assets)...
+[2025.12.17-06.02.28:024][765]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A2/Widgets/WBP_LoseScreen.WBP_LoseScreen]
+[2025.12.17-06.02.28:024][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_LoseScreen]
+[2025.12.17-06.02.28:037][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_LoseScreen
+[2025.12.17-06.02.28:037][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_LoseScreen17D6253D4E4724A607E476847A5CBA3D.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Widgets/WBP_LoseScreen.uasset'
+[2025.12.17-06.02.28:045][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_WinScreen] ([2] browsable assets)...
+[2025.12.17-06.02.28:045][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_WinScreen]
+[2025.12.17-06.02.28:051][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_WinScreen
+[2025.12.17-06.02.28:051][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_WinScreen9D36EDC14A4B576B98348981FE992584.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Widgets/WBP_WinScreen.uasset'
+[2025.12.17-06.02.28:062][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room_Cue] ([1] browsable assets)...
+[2025.12.17-06.02.28:062][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room_Cue]
+[2025.12.17-06.02.28:064][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room_Cue
+[2025.12.17-06.02.28:064][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/Magic_Escape_Room_Cue3FE7BF704C55F8AF9DC5118FC0E236E9.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room_Cue.uasset'
+[2025.12.17-06.02.28:068][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room] ([1] browsable assets)...
+[2025.12.17-06.02.28:068][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room]
+[2025.12.17-06.02.28:357][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room
+[2025.12.17-06.02.28:357][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/Magic_Escape_Room84E9492044E776F513796096CB01486B.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room.uasset'
+[2025.12.17-06.02.28:359][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_OptionsMenu] ([2] browsable assets)...
+[2025.12.17-06.02.28:359][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_OptionsMenu]
+[2025.12.17-06.02.28:370][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_OptionsMenu
+[2025.12.17-06.02.28:370][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_OptionsMenu75F2920A4B1A84B292E1D38ABF92FBAF.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Widgets/WBP_OptionsMenu.uasset'
+[2025.12.17-06.02.28:378][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_MainMenu] ([2] browsable assets)...
+[2025.12.17-06.02.28:383][765]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A2/Widgets/WBP_MainMenu.WBP_MainMenu]
+[2025.12.17-06.02.28:383][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_MainMenu]
+[2025.12.17-06.02.28:409][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_MainMenu
+[2025.12.17-06.02.28:410][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_MainMenu783B5E5C4DDCAB0E9A8ECDAF2E3167E4.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Widgets/WBP_MainMenu.uasset'
+[2025.12.17-06.02.28:420][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu] ([5] browsable assets)...
+[2025.12.17-06.02.28:420][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu]
+[2025.12.17-06.02.28:422][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu
+[2025.12.17-06.02.28:423][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_MainMenu5B518E9B433E3D0612A1398B3EF51FEA.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu.uasset'
+[2025.12.17-06.02.28:429][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_PauseMenu] ([2] browsable assets)...
+[2025.12.17-06.02.28:434][765]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A2/Widgets/WBP_PauseMenu.WBP_PauseMenu]
+[2025.12.17-06.02.28:434][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/Widgets/WBP_PauseMenu]
+[2025.12.17-06.02.28:446][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_PauseMenu
+[2025.12.17-06.02.28:446][765]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_PauseMenuE6675255465904EF0BAB469D869AB399.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/Widgets/WBP_PauseMenu.uasset'
+[2025.12.17-06.02.28:456][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 817.916 ms (total: 14.1 sec)
+[2025.12.17-06.02.28:736][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.17-06.02.28:786][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.17-06.02.28:831][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.17-06.02.28:923][765]LogContentValidation: Display: Starting to validate 28 assets
+[2025.12.17-06.02.28:923][765]LogContentValidation: Enabled validators:
+[2025.12.17-06.02.28:923][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-06.02.28:923][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-06.02.28:923][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-06.02.28:923][765]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-06.02.28:923][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-06.02.28:924][765]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-06.02.28:924][765]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.17-06.02.28:924][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/BPI_Interactable Validating asset
+[2025.12.17-06.02.28:924][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/BP_Pickup Validating asset
+[2025.12.17-06.02.28:924][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_Pickup Validating asset
+[2025.12.17-06.02.28:924][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_Pickup Validating asset
+[2025.12.17-06.02.28:924][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_Pickup Validating asset
+[2025.12.17-06.02.28:924][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/BP_GameManager Validating asset
+[2025.12.17-06.02.28:925][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameManager Validating asset
+[2025.12.17-06.02.28:925][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameManager Validating asset
+[2025.12.17-06.02.28:925][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameManager Validating asset
+[2025.12.17-06.02.28:925][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/BP_GameInstance Validating asset
+[2025.12.17-06.02.28:925][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameInstance Validating asset
+[2025.12.17-06.02.28:925][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameInstance Validating asset
+[2025.12.17-06.02.28:925][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameInstance Validating asset
+[2025.12.17-06.02.28:926][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_HUD Validating asset
+[2025.12.17-06.02.28:926][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/WBP_MainMenu_C Validating asset
+[2025.12.17-06.02.28:926][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Sounds/SC_BGM Validating asset
+[2025.12.17-06.02.28:926][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Sounds/SM_Main Validating asset
+[2025.12.17-06.02.28:926][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_LoseScreen Validating asset
+[2025.12.17-06.02.28:927][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_WinScreen Validating asset
+[2025.12.17-06.02.28:927][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room_Cue Validating asset
+[2025.12.17-06.02.28:927][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Sounds/Magic_Escape_Room Validating asset
+[2025.12.17-06.02.28:928][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_OptionsMenu Validating asset
+[2025.12.17-06.02.28:928][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_MainMenu Validating asset
+[2025.12.17-06.02.28:928][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu Validating asset
+[2025.12.17-06.02.28:928][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu Validating asset
+[2025.12.17-06.02.28:928][765]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu Validating asset
+[2025.12.17-06.02.28:930][765]AssetCheck: /Game/FirstPerson/Blueprints/A2/Widgets/WBP_PauseMenu Validating asset
+[2025.12.17-06.02.28:995][765]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.17-06.02.43:853][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.17-06.02.48:747][780]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.17-06.03.08:596][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.17-06.03.15:085][167]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.17-06.03.55:615][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-06.03.55:616][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/BP_GameManager] ([2] browsable assets)...
+[2025.12.17-06.03.55:616][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/BP_GameManager]
+[2025.12.17-06.03.55:641][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/BP_GameManager
+[2025.12.17-06.03.55:642][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameManagerE20EB9E0483E03BE0C1B1B962461CC55.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/BP_GameManager.uasset'
+[2025.12.17-06.03.55:644][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu] ([3] browsable assets)...
+[2025.12.17-06.03.55:650][776]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu.WBP_MainMenu]
+[2025.12.17-06.03.55:650][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu]
+[2025.12.17-06.03.55:665][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu
+[2025.12.17-06.03.55:665][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_MainMenuF35971FB4A49B408598376B3FDA25990.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu.uasset'
+[2025.12.17-06.03.55:670][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/WBP_MainMenu_C] ([1] browsable assets)...
+[2025.12.17-06.03.55:670][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/WBP_MainMenu_C]
+[2025.12.17-06.03.55:671][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/WBP_MainMenu_C
+[2025.12.17-06.03.55:672][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_MainMenu_CD44AEE674F8481263E55F8AAC3C42887.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/WBP_MainMenu_C.uasset'
+[2025.12.17-06.03.55:676][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.17-06.03.55:739][776]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.17-06.03.55:739][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.17-06.03.55:809][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.17-06.03.55:810][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_FirstPersonCharacterAD18F5224F1FBA46540F588AAD4328DD.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.17-06.03.55:811][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD] ([2] browsable assets)...
+[2025.12.17-06.03.55:811][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD]
+[2025.12.17-06.03.55:818][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD
+[2025.12.17-06.03.55:818][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_HUDC71C50E94C52F31DA61DB2AD0762EEEF.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_HUD.uasset'
+[2025.12.17-06.03.55:835][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_LoseScreen] ([2] browsable assets)...
+[2025.12.17-06.03.55:835][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_LoseScreen]
+[2025.12.17-06.03.55:840][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_LoseScreen
+[2025.12.17-06.03.55:840][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_LoseScreen1FE99ADA40DA8B438DFDAC9019A59B08.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_LoseScreen.uasset'
+[2025.12.17-06.03.55:848][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_WinScreen] ([2] browsable assets)...
+[2025.12.17-06.03.55:848][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_WinScreen]
+[2025.12.17-06.03.55:854][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_WinScreen
+[2025.12.17-06.03.55:854][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_WinScreenD903CEF94E09ACAE158CB48825B0285C.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_WinScreen.uasset'
+[2025.12.17-06.03.55:861][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu] ([2] browsable assets)...
+[2025.12.17-06.03.55:861][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu]
+[2025.12.17-06.03.55:870][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu
+[2025.12.17-06.03.55:870][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_OptionsMenuBC6E6566441F42A997741F8A05BE6B46.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu.uasset'
+[2025.12.17-06.03.55:877][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu] ([2] browsable assets)...
+[2025.12.17-06.03.55:877][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu]
+[2025.12.17-06.03.55:886][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu
+[2025.12.17-06.03.55:886][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_PauseMenuCF08F9E34F5329B2697AC7BFE9897D73.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu.uasset'
+[2025.12.17-06.03.55:894][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 278.902 ms (total: 14.4 sec)
+[2025.12.17-06.03.56:109][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.17-06.03.56:158][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.17-06.03.56:197][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.17-06.03.56:517][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-06.03.56:517][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/BP_GameInstance] ([2] browsable assets)...
+[2025.12.17-06.03.56:517][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/BP_GameInstance]
+[2025.12.17-06.03.56:521][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/BP_GameInstance
+[2025.12.17-06.03.56:522][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameInstance8086ED90442E17ACE4451DBFF3BB1944.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/BP_GameInstance.uasset'
+[2025.12.17-06.03.56:525][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/BP_GameManager] ([2] browsable assets)...
+[2025.12.17-06.03.56:525][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/BP_GameManager]
+[2025.12.17-06.03.56:556][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/BP_GameManager
+[2025.12.17-06.03.56:556][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameManagerCB4C4F83472D98BEBB04EA86241CC947.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/BP_GameManager.uasset'
+[2025.12.17-06.03.56:559][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Sounds/SC_BGM] ([1] browsable assets)...
+[2025.12.17-06.03.56:559][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Sounds/SC_BGM]
+[2025.12.17-06.03.56:560][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Sounds/SC_BGM
+[2025.12.17-06.03.56:560][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/SC_BGM1C1EBFCB4B20012D01FEC3B83A07395F.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Sounds/SC_BGM.uasset'
+[2025.12.17-06.03.56:561][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Sounds/SM_Main] ([1] browsable assets)...
+[2025.12.17-06.03.56:561][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Sounds/SM_Main]
+[2025.12.17-06.03.56:562][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Sounds/SM_Main
+[2025.12.17-06.03.56:563][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/SM_Main1989AA2A42B87C6BD521FB8FBD7CFE74.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Sounds/SM_Main.uasset'
+[2025.12.17-06.03.56:566][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room_Cue] ([1] browsable assets)...
+[2025.12.17-06.03.56:566][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room_Cue]
+[2025.12.17-06.03.56:572][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room_Cue
+[2025.12.17-06.03.56:572][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/Magic_Escape_Room_CueB1CB20654169FE57FAA84E9659E92EB2.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room_Cue.uasset'
+[2025.12.17-06.03.56:584][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room] ([1] browsable assets)...
+[2025.12.17-06.03.56:584][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room]
+[2025.12.17-06.03.56:844][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room
+[2025.12.17-06.03.56:844][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/Magic_Escape_Room296E3313459AB23F4FCA4A8F235BA50E.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room.uasset'
+[2025.12.17-06.03.56:846][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 329.974 ms (total: 14.7 sec)
+[2025.12.17-06.03.56:955][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.12.17-06.03.56:998][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.17-06.03.57:043][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.12.17-06.04.00:548][776]LogSlate: Window 'Message' being destroyed
+[2025.12.17-06.04.00:558][776]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_GameInstance
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.12.17-06.04.00:715][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-06.04.00:715][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.17-06.04.00:786][776]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.17-06.04.00:786][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.17-06.04.00:840][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.17-06.04.00:841][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_FirstPersonCharacter9F1C0045422AF34840F03880D56D7CB2.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.17-06.04.00:842][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BP_Pickup] ([3] browsable assets)...
+[2025.12.17-06.04.00:885][776]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/A1/BP_Pickup.BP_Pickup]
+[2025.12.17-06.04.00:885][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BP_Pickup]
+[2025.12.17-06.04.00:902][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BP_Pickup
+[2025.12.17-06.04.00:904][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_PickupE22E15284957F41322D4BD8A1D090E57.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BP_Pickup.uasset'
+[2025.12.17-06.04.00:911][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BP_GameManager] ([3] browsable assets)...
+[2025.12.17-06.04.00:911][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BP_GameManager]
+[2025.12.17-06.04.00:957][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BP_GameManager
+[2025.12.17-06.04.00:958][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameManager72BABE25414159A3393DDFA1FDD5430C.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BP_GameManager.uasset'
+[2025.12.17-06.04.00:960][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD] ([2] browsable assets)...
+[2025.12.17-06.04.00:965][776]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD.WBP_HUD]
+[2025.12.17-06.04.00:965][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD]
+[2025.12.17-06.04.00:978][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD
+[2025.12.17-06.04.00:979][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_HUD4C748EAD4A71AF722765AE9923C4AB0D.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_HUD.uasset'
+[2025.12.17-06.04.00:982][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu] ([3] browsable assets)...
+[2025.12.17-06.04.00:988][776]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu.WBP_MainMenu]
+[2025.12.17-06.04.00:989][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu]
+[2025.12.17-06.04.01:026][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu
+[2025.12.17-06.04.01:029][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_MainMenu8C9AFE264E89642EF308FB979918A03D.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu.uasset'
+[2025.12.17-06.04.01:032][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu] ([2] browsable assets)...
+[2025.12.17-06.04.01:040][776]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu.WBP_OptionsMenu]
+[2025.12.17-06.04.01:040][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu]
+[2025.12.17-06.04.01:068][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu
+[2025.12.17-06.04.01:070][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/WBP_OptionsMenu4F22C4704658BA7BD0478E970A34EC03.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu.uasset'
+[2025.12.17-06.04.01:073][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BP_GameInstance] ([3] browsable assets)...
+[2025.12.17-06.04.01:073][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BP_GameInstance]
+[2025.12.17-06.04.01:082][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BP_GameInstance
+[2025.12.17-06.04.01:083][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameInstance5378DD0849E30FDCE2DFA69DEF3FB8BA.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BP_GameInstance.uasset'
+[2025.12.17-06.04.01:086][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A1/BPI_Interactable] ([2] browsable assets)...
+[2025.12.17-06.04.01:088][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A1/BPI_Interactable]
+[2025.12.17-06.04.01:092][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A1/BPI_Interactable
+[2025.12.17-06.04.01:092][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BPI_InteractableCF2C85B8409947BF8470F098D22ECF33.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A1/BPI_Interactable.uasset'
+[2025.12.17-06.04.01:101][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/A2/BP_GameInstance] ([5] browsable assets)...
+[2025.12.17-06.04.01:101][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/A2/BP_GameInstance]
+[2025.12.17-06.04.01:102][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/A2/BP_GameInstance
+[2025.12.17-06.04.01:103][776]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/BP_GameInstanceF64E8EB143E2AF17BE970CBF1E9EFDD5.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/Blueprints/A2/BP_GameInstance.uasset'
+[2025.12.17-06.04.01:112][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 397.425 ms (total: 15.1 sec)
+[2025.12.17-06.04.01:222][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.17-06.04.01:266][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.12.17-06.04.01:310][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.12.17-06.04.01:345][776]LogAssetRegistry: Warning: C:/Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson\Blueprints\A2\BP_GameManager.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.12.17-06.04.01:416][776]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.17-06.04.01:416][776]LogContentValidation: Display: Starting to validate 23 assets
+[2025.12.17-06.04.01:416][776]LogContentValidation: Enabled validators:
+[2025.12.17-06.04.01:416][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-06.04.01:416][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-06.04.01:416][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-06.04.01:416][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-06.04.01:416][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-06.04.01:416][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-06.04.01:416][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu Validating asset
+[2025.12.17-06.04.01:417][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_MainMenu Validating asset
+[2025.12.17-06.04.01:419][776]AssetCheck: /Game/FirstPerson/Blueprints/A2/WBP_MainMenu_C Validating asset
+[2025.12.17-06.04.01:419][776]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.17-06.04.01:420][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_HUD Validating asset
+[2025.12.17-06.04.01:421][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_LoseScreen Validating asset
+[2025.12.17-06.04.01:422][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_WinScreen Validating asset
+[2025.12.17-06.04.01:422][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_OptionsMenu Validating asset
+[2025.12.17-06.04.01:423][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Widgets/WBP_PauseMenu Validating asset
+[2025.12.17-06.04.01:423][776]AssetCheck: /Game/FirstPerson/Blueprints/A2/BP_GameInstance Validating asset
+[2025.12.17-06.04.01:423][776]AssetCheck: /Game/FirstPerson/Blueprints/A2/BP_GameInstance Validating asset
+[2025.12.17-06.04.01:424][776]AssetCheck: /Game/FirstPerson/Blueprints/A2/BP_GameInstance Validating asset
+[2025.12.17-06.04.01:424][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Sounds/SC_BGM Validating asset
+[2025.12.17-06.04.01:424][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Sounds/SM_Main Validating asset
+[2025.12.17-06.04.01:424][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room_Cue Validating asset
+[2025.12.17-06.04.01:424][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/Sounds/Magic_Escape_Room Validating asset
+[2025.12.17-06.04.01:425][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_Pickup Validating asset
+[2025.12.17-06.04.01:425][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_Pickup Validating asset
+[2025.12.17-06.04.01:425][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameManager Validating asset
+[2025.12.17-06.04.01:425][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameManager Validating asset
+[2025.12.17-06.04.01:426][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameInstance Validating asset
+[2025.12.17-06.04.01:426][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/BP_GameInstance Validating asset
+[2025.12.17-06.04.01:426][776]AssetCheck: /Game/FirstPerson/Blueprints/A1/BPI_Interactable Validating asset
+[2025.12.17-06.04.08:229][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.12.17-06.04.08:295][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.12.17-06.04.08:364][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.12.17-06.04.08:435][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.17-06.04.08:498][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.17-06.04.08:561][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.12.17-06.04.09:014][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.12.17-06.04.09:071][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.17-06.04.09:150][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.12.17-06.04.09:226][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.17-06.04.27:754][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.12.17-06.04.39:808][507]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.17-06.05.02:118][ 36]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19217.335938
+[2025.12.17-06.05.02:236][ 44]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-06.05.02:236][ 44]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19217.441406, Update Interval: 300.975983
+[2025.12.17-06.05.14:095][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-06.05.14:318][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.12.17-06.05.14:338][988]LogSavePackage: Moving output files for package: /Game/FirstPerson/LVL_MainMenu
+[2025.12.17-06.05.14:339][988]LogSavePackage: Moving '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Saved/LVL_MainMenu3111AC234956F5D1EE0757A01E2103DD.tmp' to '../../../../../../Users/pg29diana/Desktop/Assigments-Visual_Scripting/A1/Content/FirstPerson/LVL_MainMenu.umap'
+[2025.12.17-06.05.14:353][988]LogFileHelpers: Saving map 'LVL_MainMenu' took 0.170
+[2025.12.17-06.05.14:373][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.849 ms (total: 15.4 sec)
+[2025.12.17-06.05.14:465][988]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-06.05.14:465][988]LogContentValidation: Enabled validators:
+[2025.12.17-06.05.14:465][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-06.05.14:465][988]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-06.05.14:465][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-06.05.14:466][988]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-06.05.14:466][988]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-06.05.14:466][988]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-06.05.14:466][988]AssetCheck: /Game/FirstPerson/LVL_MainMenu Validating asset
+[2025.12.17-06.05.16:733][120]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.17-06.05.16:743][120]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2025.12.17-06.05.16:816][120]LogPlayLevel: [PlayLevel] Compiling LVL_MainMenu before play...
+[2025.12.17-06.05.16:889][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.17-06.05.16:897][120]LogPlayLevel: PlayLevel: Blueprint regeneration took 154 ms (2 blueprints)
+[2025.12.17-06.05.16:930][120]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_LVL_MainMenu
+[2025.12.17-06.05.16:939][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008814s)
+[2025.12.17-06.05.16:939][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/LVL_MainMenu.LVL_MainMenu to /Game/FirstPerson/UEDPIE_0_LVL_MainMenu.LVL_MainMenu (0.008932s)
+[2025.12.17-06.05.16:996][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.12.17-06.05.17:002][120]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_MainMenu
+[2025.12.17-06.05.17:004][120]LogPlayLevel: PIE: World Init took: (0.002296s)
+[2025.12.17-06.05.17:005][120]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2025.12.17-06.05.17:005][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.17-06.05.17:005][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.17-06.05.17:005][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.17-06.05.17:005][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.17-06.05.17:005][120]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.17-06.05.17:005][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.17-06.05.17:005][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.17-06.05.17:005][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.17-06.05.17:005][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.17-06.05.17:005][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.17-06.05.17:005][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.17-06.05.17:009][120]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.17-06.05.17:169][120]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.12.17-06.05.17:169][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.17-06.05.17:169][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.17-06.05.17:169][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.17-06.05.17:170][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2025.12.17-06.05.17:170][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2025.12.17-06.05.17:178][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2025.12.17-06.05.17:178][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2025.12.17-06.05.17:178][120]LogInit: FAudioDevice initialized with ID 51.
+[2025.12.17-06.05.17:178][120]LogAudio: Display: Audio Device (ID: 51) registered with world 'LVL_MainMenu'.
+[2025.12.17-06.05.17:178][120]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2025.12.17-06.05.17:187][120]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.17-06.05.17:190][120]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_LVL_MainMenu.LVL_MainMenu up for play (max tick rate 0) at 2025.12.16-22.05.17
+[2025.12.17-06.05.17:190][120]LogWorld: Bringing up level for play took: 0.002380
+[2025.12.17-06.05.17:199][120]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2025.12.17-06.05.17:219][120]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2025.12.17-06.05.17:220][120]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.17-06.05.17:220][120]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.12.17-06.05.17:223][120]PIE: Server logged in
+[2025.12.17-06.05.17:232][120]PIE: Play in editor total start time 0.491 seconds.
+[2025.12.17-06.05.17:291][121]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.17-06.05.18:358][189]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.17-06.05.18:358][189]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.17-06.05.18:359][189]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Lvl_FirstPerson"
+[2025.12.17-06.05.18:359][189]LogNet: Browse: /Game/FirstPerson/Lvl_FirstPerson
+[2025.12.17-06.05.18:359][189]LogLoad: LoadMap: /Game/FirstPerson/Lvl_FirstPerson
+[2025.12.17-06.05.18:359][189]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_LVL_MainMenu
+[2025.12.17-06.05.18:360][189]LogWorld: UWorld::CleanupWorld for LVL_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.05.18:360][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.05.18:432][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.17-06.05.18:435][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.17-06.05.18:443][189]LogStreaming: Display: FlushAsyncLoading(1507): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.17-06.05.18:449][189]LogAudio: Display: Audio Device (ID: 51) registered with world 'Lvl_FirstPerson'.
+[2025.12.17-06.05.18:449][189]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.17-06.05.18:451][189]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.17-06.05.18:451][189]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.17-06.05.18:451][189]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.12.17-06.05.18:452][189]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.17-06.05.18:452][189]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.17-06.05.18:464][189]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 11.485 ms (total: 201.633 ms)
+[2025.12.17-06.05.18:465][189]LogWorldPartition: Display: WorldPartition initialize took 13.535 ms (total: 584.216 ms)
+[2025.12.17-06.05.18:465][189]LogPlayLevel: PIE: World Init took: (0.015712s)
+[2025.12.17-06.05.18:466][189]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.17-06.05.18:475][189]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.12.16-22.05.18
+[2025.12.17-06.05.18:475][189]LogWorld: Bringing up level for play took: 0.010038
+[2025.12.17-06.05.18:482][189]LogBlueprintUserMessages: [BP_GameManager_C_UAID_A4BB6D9ED3D2C9A702_1503441226] Move with WASD
+[2025.12.17-06.05.18:482][189]LogBlueprintUserMessages: [BP_GameManager_C_UAID_A4BB6D9ED3D2C9A702_1503441226] Collect them with E
+[2025.12.17-06.05.18:482][189]LogBlueprintUserMessages: [BP_GameManager_C_UAID_A4BB6D9ED3D2C9A702_1503441226] You have 2 min to find the 10 coins
+[2025.12.17-06.05.18:485][189]LogLoad: Took 0.125613 seconds to LoadMap(/Game/FirstPerson/Lvl_FirstPerson)
+[2025.12.17-06.05.18:485][189]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Lvl_FirstPerson
+[2025.12.17-06.05.18:495][189]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.17-06.06.05:589][ 70]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2025.12.17-06.06.05:589][ 70]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.17-06.06.05:589][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.17-06.06.07:176][169]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/LVL_MainMenu"
+[2025.12.17-06.06.07:176][169]LogNet: Browse: /Game/FirstPerson/LVL_MainMenu
+[2025.12.17-06.06.07:176][169]LogLoad: LoadMap: /Game/FirstPerson/LVL_MainMenu
+[2025.12.17-06.06.07:176][169]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.17-06.06.07:177][169]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.06.07:177][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.06.07:177][169]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.17-06.06.07:258][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.17-06.06.07:262][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.17-06.06.07:269][169]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_LVL_MainMenu
+[2025.12.17-06.06.07:272][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002994s)
+[2025.12.17-06.06.07:272][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/LVL_MainMenu.LVL_MainMenu to /Game/FirstPerson/UEDPIE_0_LVL_MainMenu.LVL_MainMenu (0.003051s)
+[2025.12.17-06.06.07:272][169]LogAudio: Display: Audio Device (ID: 51) registered with world 'LVL_MainMenu'.
+[2025.12.17-06.06.07:272][169]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_MainMenu
+[2025.12.17-06.06.07:274][169]LogPlayLevel: PIE: World Init took: (0.002025s)
+[2025.12.17-06.06.07:274][169]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.17-06.06.07:275][169]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_LVL_MainMenu.LVL_MainMenu up for play (max tick rate 0) at 2025.12.16-22.06.07
+[2025.12.17-06.06.07:275][169]LogWorld: Bringing up level for play took: 0.000747
+[2025.12.17-06.06.07:283][169]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2025.12.17-06.06.07:283][169]LogLoad: Took 0.107027 seconds to LoadMap(/Game/FirstPerson/UEDPIE_0_LVL_MainMenu)
+[2025.12.17-06.06.07:283][169]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/UEDPIE_0_LVL_MainMenu
+[2025.12.17-06.06.07:292][169]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.17-06.06.11:378][443]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.17-06.06.11:378][443]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.17-06.06.11:380][443]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Lvl_FirstPerson"
+[2025.12.17-06.06.11:380][443]LogNet: Browse: /Game/FirstPerson/Lvl_FirstPerson
+[2025.12.17-06.06.11:380][443]LogLoad: LoadMap: /Game/FirstPerson/Lvl_FirstPerson
+[2025.12.17-06.06.11:380][443]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_LVL_MainMenu
+[2025.12.17-06.06.11:381][443]LogWorld: UWorld::CleanupWorld for LVL_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.06.11:381][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.06.11:417][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.17-06.06.11:420][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.12.17-06.06.11:428][443]LogStreaming: Display: FlushAsyncLoading(1537): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.17-06.06.11:435][443]LogAudio: Display: Audio Device (ID: 51) registered with world 'Lvl_FirstPerson'.
+[2025.12.17-06.06.11:435][443]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.17-06.06.11:437][443]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.17-06.06.11:437][443]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.17-06.06.11:437][443]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.12.17-06.06.11:437][443]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.17-06.06.11:438][443]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.17-06.06.11:445][443]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 7.206 ms (total: 208.839 ms)
+[2025.12.17-06.06.11:446][443]LogWorldPartition: Display: WorldPartition initialize took 9.214 ms (total: 593.431 ms)
+[2025.12.17-06.06.11:446][443]LogPlayLevel: PIE: World Init took: (0.011379s)
+[2025.12.17-06.06.11:446][443]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.17-06.06.11:455][443]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.12.16-22.06.11
+[2025.12.17-06.06.11:456][443]LogWorld: Bringing up level for play took: 0.009967
+[2025.12.17-06.06.11:463][443]LogBlueprintUserMessages: [BP_GameManager_C_UAID_A4BB6D9ED3D2C9A702_1503441226] Move with WASD
+[2025.12.17-06.06.11:463][443]LogBlueprintUserMessages: [BP_GameManager_C_UAID_A4BB6D9ED3D2C9A702_1503441226] Collect them with E
+[2025.12.17-06.06.11:463][443]LogBlueprintUserMessages: [BP_GameManager_C_UAID_A4BB6D9ED3D2C9A702_1503441226] You have 2 min to find the 10 coins
+[2025.12.17-06.06.11:465][443]LogLoad: Took 0.084767 seconds to LoadMap(/Game/FirstPerson/Lvl_FirstPerson)
+[2025.12.17-06.06.11:465][443]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Lvl_FirstPerson
+[2025.12.17-06.06.11:476][443]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.17-06.07.13:776][423]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2025.12.17-06.07.13:776][423]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.17-06.07.13:776][423]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.17-06.07.16:026][565]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.17-06.07.16:026][565]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.17-06.08.11:378][124]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2025.12.17-06.08.11:378][124]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.17-06.08.11:378][124]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.17-06.08.13:918][280]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/LVL_MainMenu"
+[2025.12.17-06.08.13:919][280]LogNet: Browse: /Game/FirstPerson/LVL_MainMenu
+[2025.12.17-06.08.13:919][280]LogLoad: LoadMap: /Game/FirstPerson/LVL_MainMenu
+[2025.12.17-06.08.13:919][280]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.17-06.08.13:920][280]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.08.13:920][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.08.13:920][280]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.17-06.08.14:025][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.17-06.08.14:030][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.17-06.08.14:037][280]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_LVL_MainMenu
+[2025.12.17-06.08.14:039][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002988s)
+[2025.12.17-06.08.14:039][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/LVL_MainMenu.LVL_MainMenu to /Game/FirstPerson/UEDPIE_0_LVL_MainMenu.LVL_MainMenu (0.003048s)
+[2025.12.17-06.08.14:039][280]LogAudio: Display: Audio Device (ID: 51) registered with world 'LVL_MainMenu'.
+[2025.12.17-06.08.14:039][280]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_MainMenu
+[2025.12.17-06.08.14:041][280]LogPlayLevel: PIE: World Init took: (0.002041s)
+[2025.12.17-06.08.14:041][280]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.17-06.08.14:042][280]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_LVL_MainMenu.LVL_MainMenu up for play (max tick rate 0) at 2025.12.16-22.08.14
+[2025.12.17-06.08.14:043][280]LogWorld: Bringing up level for play took: 0.000749
+[2025.12.17-06.08.14:050][280]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2025.12.17-06.08.14:050][280]LogLoad: Took 0.131395 seconds to LoadMap(/Game/FirstPerson/UEDPIE_0_LVL_MainMenu)
+[2025.12.17-06.08.14:050][280]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/UEDPIE_0_LVL_MainMenu
+[2025.12.17-06.08.14:057][280]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.17-06.08.14:961][344]Cmd: quit
+[2025.12.17-06.08.14:962][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.17-06.08.14:962][344]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_LVL_MainMenu
+[2025.12.17-06.08.14:990][344]LogWorld: UWorld::CleanupWorld for LVL_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-06.08.14:991][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.08.14:992][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.17-06.08.15:000][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-06.08.15:046][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.17-06.08.15:046][344]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2025.12.17-06.08.15:046][344]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=4
+[2025.12.17-06.08.15:050][344]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=2
+[2025.12.17-06.08.15:061][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.17-06.08.15:178][345]LogPlayLevel: Display: Destroying online subsystem :Context_108
